@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# meu-portifolio
+Site criado para exibir meu perfil e alguns projetos realizados, criado utilizando ReactJS para praticar o recente conhecimento obtido
+>>>>>>> d60b1764d47f0cfbd8562b75d9f47460c3679538
